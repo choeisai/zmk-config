@@ -22,7 +22,7 @@
    &none &kp Q &kp W &kp E &kp R &kp T   &kp U &kp I &kp O &kp P    &kp LBKT &none
    &none &kp A &kp S &kp D &kp F &kp G   &kp J &kp K &kp L &kp SEMI &kp SQT  &none
    &none &none &none &none &none &none   &none &none &none &none    &none    &none
-                     &none &kp C &kp V   &kp E &kp U &none
+                     &none &kp C &kp V   &kp N &kp M &none
                         >;
                 };
         };
